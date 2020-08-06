@@ -2,9 +2,11 @@ body {background-color: darkorchid;
     background-color: rgba(60, 179, 113, 1);
     background-color: #4db4f0;
 
+
 font-family: 'Roboto', sans-serif;
 
-    color: #2d332f;
+color: #2d332f;
+
 font-size: 15px;
 font-weight: 600;
 letter-spacing: 3px;
@@ -82,3 +84,66 @@ padding: 30px;
 
     padding:30px 20px ;
     padding: 30px;}
+    #locations {margin-left:30px ;
+        margin-top: 60px;
+        margin-right: 30px;
+        margin-bottom: 60px;
+    
+        margin: 60px 30px;
+        margin:60px ;
+    
+        border-color: red;
+        border-width: 5px;
+        border-style: dotted;
+        border-radius: 30px;
+    
+        padding-left: 20px;
+        padding-top: 30px;
+        padding-right: 20px;
+        padding-bottom: 30px;
+    
+        padding:30px 20px ;
+        padding: 30px;
+        
+        color: aliceblue;}
+        #locations ul{ list-style: square;
+    }
+        
+        #facts {margin-left:30px ;
+            margin-top: 60px;
+            margin-right: 30px;
+            margin-bottom: 60px;
+        
+            margin: 60px 30px;
+            margin:60px ;
+        
+            border-color: red;
+            border-width: 5px;
+            border-style: dotted;
+            border-radius: 30px;
+        
+            padding-left: 20px;
+            padding-top: 30px;
+            padding-right: 20px;
+            padding-bottom: 30px;
+        
+            padding:30px 20px ;
+            padding: 30px;
+        color: aliceblue}
+        #facts ul {list-style: square;}
+        
+        #nav {
+        
+            border-color: red;
+            border-width: 5px,500px,5px,500px;
+            border-style: solid;
+            border-radius: 0px;
+            border-spacing: 5000px ;
+        left: 20px;
+        color: red;
+justify-content: center;
+        background-color: red;
+             
+        text-align: center; position: fixed;
+        }
+        header{background-color: red;}
