@@ -34,4 +34,11 @@ background-color: orange;}
 
     margin: 30px;
 
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 30px;
+background-color: orange;}
+
+
 }
