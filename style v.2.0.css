@@ -1,0 +1,37 @@
+h1 {text-align: center;
+font-size: 35px;}
+
+body {    background-color: #4db4f0;
+
+text-align: center;
+
+font-family: 'Roboto', sans-serif;
+
+color: #444544;
+
+font-size: 15px;
+font-weight: 600;
+line-height: 1.5;
+
+
+}
+
+h2 {text-align: center;
+font-size: 30px;}
+
+h3 {text-align: center;
+    font-size: 21.5px;}
+
+    #Top {text-align: center;
+    
+    border: orange;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 30px;
+background-color: orange;}
+
+#back {position: fixed;
+
+    margin: 30px;
+
+}
